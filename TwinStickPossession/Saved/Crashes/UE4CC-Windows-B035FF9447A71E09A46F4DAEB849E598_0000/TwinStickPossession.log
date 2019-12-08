@@ -1,0 +1,1046 @@
+﻿Log file open, 12/04/19 14:49:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TwinStickPossession
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.575933
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.091s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.04-14.49.41:931][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.04-14.49.41:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:932][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-14.49.41:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-14.49.41:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-14.49.41:956][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-14.49.41:956][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-14.49.41:956][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.04-14.49.41:974][  0]LogHAL: Display: Platform has ~ 16 GB [17018155008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.12.04-14.49.41:974][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.04-14.49.41:974][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-14.49.41:974][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-14.49.41:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-14.49.41:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-14.49.41:977][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.04-14.49.41:978][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.04-14.49.41:978][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.49.41:978][  0]LogInit: Computer: MSI
+[2019.12.04-14.49.41:978][  0]LogInit: User: callu
+[2019.12.04-14.49.41:978][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.04-14.49.41:978][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.04-14.49.41:979][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.04-14.49.41:979][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.04-14.49.41:979][  0]LogMemory: Process Physical Memory: 112.70 MB used, 112.70 MB peak
+[2019.12.04-14.49.41:979][  0]LogMemory: Process Virtual Memory: 98.81 MB used, 98.81 MB peak
+[2019.12.04-14.49.41:979][  0]LogMemory: Physical Memory: 10564.21 MB used,  5665.56 MB free, 16229.78 MB total
+[2019.12.04-14.49.41:979][  0]LogMemory: Virtual Memory: 4666.15 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.04-14.49.42:716][  0]LogInit: Using OS detected language (en-US).
+[2019.12.04-14.49.42:716][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.04-14.49.42:717][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.04-14.49.43:397][  0]LogStreaming: Display: Took  0.681s to InitEngineTextLocalization.
+[2019.12.04-14.49.43:399][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.04-14.49.43:446][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.04-14.49.43:446][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.04-14.49.44:376][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.12.04-14.49.44:376][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.04-14.49.44:465][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.12.04-14.49.44:465][  0]LogD3D11RHI:       6052/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.04-14.49.44:501][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.04-14.49.44:501][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.04-14.49.44:510][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-14.49.44:510][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-14.49.44:513][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-14.49.44:513][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-14.49.44:516][  0]LogD3D11RHI:    4. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-14.49.44:516][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-14.49.44:516][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.04-14.49.44:527][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.04-14.49.44:527][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.04-14.49.44:527][  0]LogWindows: EnumDisplayDevices:
+[2019.12.04-14.49.44:528][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.12.04-14.49.44:528][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.04-14.49.44:528][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.04-14.49.44:529][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.12.04-14.49.44:529][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.04-14.49.44:529][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.04-14.49.44:530][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.04-14.49.44:530][  0]LogWindows:    7. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:530][  0]LogWindows:    8. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:530][  0]LogWindows:    9. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:531][  0]LogWindows:    10. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:531][  0]LogWindows:    11. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:531][  0]LogWindows:    12. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:532][  0]LogWindows:    13. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:532][  0]LogWindows:    14. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:532][  0]LogWindows:    15. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:533][  0]LogWindows:    16. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:533][  0]LogWindows:    17. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:533][  0]LogWindows:    18. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:533][  0]LogWindows:    19. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:534][  0]LogWindows:    20. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:534][  0]LogWindows:    21. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:535][  0]LogWindows:    22. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:535][  0]LogWindows:    23. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:535][  0]LogWindows:    24. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:536][  0]LogWindows:    25. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:536][  0]LogWindows:    26. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:536][  0]LogWindows:    27. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:536][  0]LogWindows:    28. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:537][  0]LogWindows:    29. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:537][  0]LogWindows:    30. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:537][  0]LogWindows:    31. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:538][  0]LogWindows:    32. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:538][  0]LogWindows:    33. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:538][  0]LogWindows:    34. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:539][  0]LogWindows:    35. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:539][  0]LogWindows:    36. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:539][  0]LogWindows:    37. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:540][  0]LogWindows:    38. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2019.12.04-14.49.44:540][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.04-14.49.44:540][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.12.04-14.49.44:540][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.12.04-14.49.44:540][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.12.04-14.49.44:540][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.04-14.49.44:590][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.04-14.49.44:612][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.04-14.49.45:471][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.12.04-14.49.45:485][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.12.04-14.49.45:500][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.12.04-14.49.45:514][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.12.04-14.49.45:530][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.12.04-14.49.45:544][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.12.04-14.49.45:560][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.12.04-14.49.45:574][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.12.04-14.49.45:583][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:662][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:662][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:662][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:662][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.12.04-14.49.45:671][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.12.04-14.49.45:742][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.12.04-14.49.45:742][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.12.04-14.49.45:767][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.12.04-14.49.45:767][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.12.04-14.49.45:804][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.12.04-14.49.45:840][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.12.04-14.49.45:879][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.12.04-14.49.45:922][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.12.04-14.49.46:012][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.12.04-14.49.46:012][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.12.04-14.49.46:012][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.04-14.49.46:127][  0]LogShaderCompilers: Guid format shader working directory is -99 characters bigger than the processId version (../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Intermediate/Shaders/WorkingDirectory/9028/).
+[2019.12.04-14.49.46:127][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/callu/AppData/Local/Temp/UnrealShaderWorkingDir/7C44F7784CCF0B189F132E89C0C14DBB/'.
+[2019.12.04-14.49.46:135][  0]LogXGEController: Cleaning working directory: C:/Users/callu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.04-14.49.46:135][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.04-14.49.46:135][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.04-14.49.46:135][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.04-14.49.46:731][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.04-14.49.47:060][  0]LogDerivedDataCache: Loaded boot cache 0.33s 71MB C:/Users/callu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.12.04-14.49.47:061][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/callu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.12.04-14.49.47:061][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.04-14.49.47:061][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.04-14.49.47:061][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-14.49.47:061][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.04-14.49.47:077][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.04-14.49.47:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-14.49.47:078][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.04-14.49.47:090][  0]LogDerivedDataCache: Using Local data cache path C:/Users/callu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.04-14.49.47:090][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.04-14.49.47:090][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.04-14.49.47:111][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.04-14.49.47:113][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.04-14.49.47:117][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.04-14.49.47:269][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.12.04-14.49.47:586][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-14.49.47:763][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.12.04-14.49.47:775][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.12.04-14.49.47:775][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.04-14.49.47:775][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.04-14.49.47:775][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.12.04-14.49.47:787][  0]LogNetVersion: TwinStickPossession 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2389755407)
+[2019.12.04-14.49.48:300][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080360 seconds
+[2019.12.04-14.49.48:306][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.12.04-14.49.48:306][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.12.04-14.49.48:306][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.04-14.49.50:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.04-14.49.50:189][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.04-14.49.50:971][  0]SourceControl: Source control is disabled
+[2019.12.04-14.49.50:971][  0]SourceControl: Source control is disabled
+[2019.12.04-14.49.50:978][  0]SourceControl: Source control is disabled
+[2019.12.04-14.49.50:981][  0]SourceControl: Source control is disabled
+[2019.12.04-14.49.51:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.04-14.49.51:689][  0]LogOcInput: OculusInput pre-init called
+[2019.12.04-14.49.51:843][  0]LogEngine: Initializing Engine...
+[2019.12.04-14.49.51:896][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.12.04-14.49.51:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.12.04-14.49.51:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.12.04-14.49.51:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.12.04-14.49.51:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.12.04-14.49.52:112][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.04-14.49.52:159][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.04-14.49.52:179][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-14.49.52:200][  0]LogInit: FAudioDevice initialized.
+[2019.12.04-14.49.52:200][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.04-14.49.52:337][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/callu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.12.04-14.49.52:346][  0]LogInit: Texture streaming: Enabled
+[2019.12.04-14.49.52:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.04-14.49.52:396][  0]LogInit: Transaction tracking system initialized
+[2019.12.04-14.49.52:444][  0]BlueprintLog: New page: Editor Load
+[2019.12.04-14.49.52:603][  0]LocalizationService: Localization service is disabled
+[2019.12.04-14.49.53:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/' took 0.02s
+[2019.12.04-14.49.53:064][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.04-14.49.53:064][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.04-14.49.53:064][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.12.04-14.49.53:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.12.04-14.49.53:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.12.04-14.49.53:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.12.04-14.49.53:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.12.04-14.49.53:297][  0]SourceControl: Source control is disabled
+[2019.12.04-14.49.53:304][  0]LightingResults: New page: Lighting Build
+[2019.12.04-14.49.53:310][  0]MapCheck: New page: Map Check
+[2019.12.04-14.49.53:311][  0]LightingResults: New page: Lighting Build
+[2019.12.04-14.49.53:785][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-14.49.53:804][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-14.49.53:829][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-14.49.53:829][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2019.12.04-14.49.53:829][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.532
+[2019.12.04-14.49.53:937][  0]LogCollectionManager: Loaded 0 collections in 0.002705 seconds
+[2019.12.04-14.49.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Collections/' took 0.01s
+[2019.12.04-14.49.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/Developers/callu/Collections/' took 0.01s
+[2019.12.04-14.49.53:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/Collections/' took 0.00s
+[2019.12.04-14.49.53:970][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.04-14.49.53:977][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2651 classes and 620 folders.
+[2019.12.04-14.49.53:988][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.49.53:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.53:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.53:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.53:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.49.54:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.49.54:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.49.54:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.49.54:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.49.54:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.49.54:207][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.04-14.49.54:247][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.49.54:247][  0]LogLoad: (Engine Initialization) Total time: 17.05 seconds
+[2019.12.04-14.49.54:247][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.04-14.49.54:325][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.04-14.49.54:330][  0]LogSlate: Took 0.001567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.04-14.49.54:333][  0]LogSlate: Took 0.001734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.04-14.49.54:336][  0]LogSlate: Took 0.001589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.04-14.49.54:365][  0]LogSlate: Took 0.002232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-14.49.54:520][  2]LogRenderer: Reallocating scene render targets to support 664x596 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-14.49.54:683][  3]LogAssetRegistry: Asset discovery search completed in 7.4378 seconds
+[2019.12.04-14.49.54:685][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.04-14.49.54:685][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.12.04-14.49.59:183][103]LogRenderer: Reallocating scene render targets to support 1004x924 Format 10 NumSamples 1 (Frame:97).
+[2019.12.04-14.50.00:858][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.50.03:379][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.50.03:462][354]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.50.03:474][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.03:474][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.50.03:477][354]PIE: New page: PIE session: TwinStickExampleMap (4 Dec 2019 14:50:03)
+[2019.12.04-14.50.03:489][354]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2019.12.04-14.50.03:495][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006250s)
+[2019.12.04-14.50.03:496][354]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-14.50.03:496][354]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.12.04-14.50.03:496][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.007195s)
+[2019.12.04-14.50.03:535][354]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-14.50.03:544][354]LogInit: FAudioDevice initialized.
+[2019.12.04-14.50.03:591][354]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.12.04-14.50.03:593][354]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.12.04-14.50.03
+[2019.12.04-14.50.03:595][354]LogWorld: Bringing up level for play took: 0.002757
+[2019.12.04-14.50.03:627][354]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.04-14.50.03:638][354]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.666
+[2019.12.04-14.50.03:638][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.05:775][480]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 60.0
+[2019.12.04-14.50.06:860][545]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 60.0
+[2019.12.04-14.50.06:893][547]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 60.0
+[2019.12.04-14.50.07:194][565]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 20.0
+[2019.12.04-14.50.07:694][595]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] -20.0
+[2019.12.04-14.50.08:194][625]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 20.0
+[2019.12.04-14.50.09:561][707]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 20.0
+[2019.12.04-14.50.09:693][715]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 60.0
+[2019.12.04-14.50.09:858][725]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] -20.0
+[2019.12.04-14.50.10:193][745]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 20.0
+[2019.12.04-14.50.10:693][775]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] -20.0
+[2019.12.04-14.50.12:198][865]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] -20.0
+[2019.12.04-14.50.12:694][895]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	BP_PlayerCharacterExperimental_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.BP_PlayerCharacterExperimental_2
+	Function /Game/TwinStickBP/Player/BP_PlayerCharacterExperimental.BP_PlayerCharacterExperimental_C:ExecuteUbergraph_BP_PlayerCharacterExperimental:112E
+[2019.12.04-14.50.12:695][895]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  BP_PlayerCharacterExperimental Function:  Execute Ubergraph BP Player Character Experimental Graph:  EventGraph Node:  DestroyComponent
+[2019.12.04-14.50.13:193][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.50.14:178][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.14:178][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.50.14:214][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.50.14:214][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.14:238][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.50.14:256][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.50.14:346][985]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.04-14.50.15:578][ 57]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-14.50.15:587][ 57]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-14.50.16:907][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.50.17:273][158]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.50.17:285][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.17:285][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.50.17:285][158]PIE: New page: PIE session: TwinStickExampleMap (4 Dec 2019 14:50:17)
+[2019.12.04-14.50.17:285][158]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2019.12.04-14.50.17:290][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005028s)
+[2019.12.04-14.50.17:291][158]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-14.50.17:291][158]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.12.04-14.50.17:291][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005733s)
+[2019.12.04-14.50.17:325][158]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-14.50.17:334][158]LogInit: FAudioDevice initialized.
+[2019.12.04-14.50.17:365][158]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.12.04-14.50.17:367][158]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.12.04-14.50.17
+[2019.12.04-14.50.17:367][158]LogWorld: Bringing up level for play took: 0.001289
+[2019.12.04-14.50.17:383][158]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 1.078
+[2019.12.04-14.50.17:383][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.19:016][254]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 60.0
+[2019.12.04-14.50.19:631][291]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 60.0
+[2019.12.04-14.50.19:998][313]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 20.0
+[2019.12.04-14.50.20:615][350]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 60.0
+[2019.12.04-14.50.21:482][402]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 60.0
+[2019.12.04-14.50.21:934][429]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 20.0
+[2019.12.04-14.50.22:384][456]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] -20.0
+[2019.12.04-14.50.22:433][459]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 20.0
+[2019.12.04-14.50.22:934][489]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] -20.0
+[2019.12.04-14.50.23:434][519]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] 60.0
+[2019.12.04-14.50.24:782][600]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] 20.0
+[2019.12.04-14.50.25:435][639]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] -20.0
+[2019.12.04-14.50.27:414][758]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 20.0
+[2019.12.04-14.50.29:398][877]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] -20.0
+[2019.12.04-14.50.30:199][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.30:200][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.50.30:228][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.50.30:229][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-14.50.30:252][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.50.30:306][927]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.04-14.51.09:460][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.51.14:594][578]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-14.51.14:766][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.12.04-14.51.14:766][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.12.04-14.51.14:766][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.12.04-14.51.14:766][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.12.04-14.51.14:766][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.12.04-14.51.14:767][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.12.04-14.51.14:771][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0097.58] Compile of ThirdPersonCharacter successful, but with 6 Warning(s) [in 11 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-14.51.14:854][578]LoadErrors: Error: /Game/ThirdPersonBP/AI/BasicDrone/EQS_Circle : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:854][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:855][578]LoadErrors: Error: /Game/ThirdPersonBP/AI/BasicDrone/NPC_BT : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:855][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-14.51.14:856][578]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/NPC_BT.uasset.
+[2019.12.04-14.51.14:997][578]LogMaterial: Display: Missing cached shader map for material Laser_Mat, compiling. 
+[2019.12.04-14.51.15:049][578]LogMaterial: Display: Missing cached shader map for material Bullet_Material, compiling. 
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.12.04-14.51.15:222][578]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.12.04-14.51.15:360][578]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.51.15:394][578]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.12.04-14.51.15:423][578]LightingResults: New page: Lighting Build
+[2019.12.04-14.51.15:424][578]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.12.04-14.51.15:425][578]MapCheck: New page: Map Check
+[2019.12.04-14.51.15:425][578]LightingResults: New page: Lighting Build
+[2019.12.04-14.51.15:472][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-14.51.15:517][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-14.51.15:517][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.12.04-14.51.15:517][578]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.095
+[2019.12.04-14.51.17:885][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.51.17:984][714]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.51.18:012][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.51.18:012][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.51.18:012][714]PIE: New page: PIE session: ThirdPersonExampleMap (4 Dec 2019 14:51:18)
+[2019.12.04-14.51.18:013][714]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.04-14.51.18:046][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033419s)
+[2019.12.04-14.51.18:047][714]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.51.18:048][714]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2019.12.04-14.51.18:048][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035108s)
+[2019.12.04-14.51.18:100][714]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-14.51.18:118][714]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.12.04-14.51.18:118][714]LogInit: FAudioDevice initialized.
+[2019.12.04-14.51.18:158][714]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.12.04-14.51.18:164][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.04-14.51.18
+[2019.12.04-14.51.18:170][714]LogWorld: Bringing up level for play took: 0.010450
+[2019.12.04-14.51.18:190][714]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.115
+[2019.12.04-14.51.18:191][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.51.41:959][132]Cmd: ToggleDebugCamera
+[2019.12.04-14.51.41:980][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.52.35:442][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.52.35:442][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.52.35:481][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.52.35:482][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.52.35:507][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.52.35:563][341]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.04-14.52.38:010][487]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.04-14.52.53:494][409]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.04-14.54.19:333][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.58.17:239][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.01.38:875][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.02.32:712][341]LogSavePackage: Moving '../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/ThirdPersonExampleMap_Auto12D63570641C5F19F129B11A7AC62599A.tmp' to '../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.12.04-15.02.32:722][341]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.300
+[2019.12.04-15.02.32:722][341]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2019.12.04-15.12.39:220][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.06:883][358]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.09:230][358]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-15.13.09:266][358]LightingResults: New page: Lighting Build
+[2019.12.04-15.13.09:266][358]LoadErrors: New page: Loading map: Level0.umap
+[2019.12.04-15.13.09:297][358]MapCheck: New page: Map Check
+[2019.12.04-15.13.09:297][358]LightingResults: New page: Lighting Build
+[2019.12.04-15.13.09:522][358]LogAIModule: Creating AISystem for world Level0
+[2019.12.04-15.13.09:537][358]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-15.13.09:591][358]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-15.13.09:591][358]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.12.04-15.13.09:591][358]LogFileHelpers: Loading map 'Level0' took 0.355
+[2019.12.04-15.13.16:411][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.22:094][814]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.27:419][880]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.29:711][932]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.31:672][973]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.33:947][ 28]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.13.45:534][248]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.14.00:060][920]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.14.08:234][402]LogAIModule: Creating AISystem for world Level1
+[2019.12.04-15.14.08:243][402]LogAssetEditorManager: Opening Asset editor for World /Game/TeamART/CALLUM/Level1.Level1
+[2019.12.04-15.14.08:266][402]LightingResults: New page: Lighting Build
+[2019.12.04-15.14.08:266][402]LoadErrors: New page: Loading map: Level1.umap
+[2019.12.04-15.14.08:267][402]MapCheck: New page: Map Check
+[2019.12.04-15.14.08:267][402]LightingResults: New page: Lighting Build
+[2019.12.04-15.14.08:298][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-15.14.08:341][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-15.14.08:342][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.12.04-15.14.08:342][402]LogFileHelpers: Loading map 'Level1' took 0.076
+[2019.12.04-15.14.12:216][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.14.12:282][633]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.14.12:294][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TeamART/CALLUM/Level1.Level1_C' with ClassGeneratedBy '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1'
+[2019.12.04-15.14.12:294][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.14.12:294][633]PIE: New page: PIE session: Level1 (4 Dec 2019 15:14:12)
+[2019.12.04-15.14.12:294][633]LogPlayLevel: Creating play world package: /Game/TeamART/CALLUM/UEDPIE_0_Level1
+[2019.12.04-15.14.12:299][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006308s)
+[2019.12.04-15.14.12:300][633]LogAIModule: Creating AISystem for world Level1
+[2019.12.04-15.14.12:300][633]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.12.04-15.14.12:300][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamART/CALLUM/Level1.Level1 to /Game/TeamART/CALLUM/UEDPIE_0_Level1.Level1 (0.007079s)
+[2019.12.04-15.14.12:335][633]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-15.14.12:344][633]LogInit: FAudioDevice initialized.
+[2019.12.04-15.14.12:375][633]LogLoad: Game class is 'Possession_GameMode_C'
+[2019.12.04-15.14.12:377][633]LogWorld: Bringing World /Game/TeamART/CALLUM/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.12.04-15.14.12
+[2019.12.04-15.14.12:378][633]LogWorld: Bringing up level for play took: 0.001997
+[2019.12.04-15.14.12:391][633]PIE: Play in editor start time for /Game/TeamART/CALLUM/UEDPIE_0_Level1 0.086
+[2019.12.04-15.14.12:391][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TeamART/CALLUM/Level1.Level1_C' with ClassGeneratedBy '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1'
+[2019.12.04-15.14.14:013][729]LogBlueprintUserMessages: [BP_BasicEnemyEX_2] 60.0
+[2019.12.04-15.14.14:312][747]LogBlueprintUserMessages: [BP_BasicEnemyEX_2] 20.0
+[2019.12.04-15.14.16:946][905]LogBlueprintUserMessages: [BP_BasicEnemyEX4_5] 60.0
+[2019.12.04-15.14.17:246][923]LogBlueprintUserMessages: [BP_BasicEnemyEX4_5] 20.0
+[2019.12.04-15.14.19:697][ 70]LogBlueprintUserMessages: [BP_BasicEnemyEX2_5] 60.0
+[2019.12.04-15.14.19:979][ 87]LogBlueprintUserMessages: [BP_BasicEnemyEX2_5] 20.0
+[2019.12.04-15.14.22:247][223]LogBlueprintUserMessages: [BP_BasicEnemyEX3_8] 60.0
+[2019.12.04-15.14.22:596][244]LogBlueprintUserMessages: [BP_BasicEnemyEX3_8] 20.0
+[2019.12.04-15.14.23:597][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TeamART/CALLUM/Level1.Level1_C' with ClassGeneratedBy '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1'
+[2019.12.04-15.14.23:598][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.14.23:631][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.14.23:631][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TeamART/CALLUM/Level1.Level1_C' with ClassGeneratedBy '/Game/TeamART/CALLUM/Level1.Level1:PersistentLevel.Level1'
+[2019.12.04-15.14.23:654][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.14.23:710][306]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.04-15.15.17:076][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.15.19:617][172]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.15.19:637][172]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.19:646][172]MapCheck: New page: Map Check
+[2019.12.04-15.15.19:646][172]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.19:671][172]LogAIModule: Creating AISystem for world Untitled
+[2019.12.04-15.15.19:682][172]LoadErrors: New page: New Map
+[2019.12.04-15.15.19:717][172]LogAIModule: Creating AISystem for world Level1
+[2019.12.04-15.15.26:011][490]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-15.15.26:011][490]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-15.15.26:011][490]LoadErrors: Error: /Game/ThirdPersonBP/AI/BasicDrone/EQS_Circle : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2019.12.04-15.15.26:012][490]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../Users/callu/Desktop/03.12.2019 EMAGUSH ALLAN AND MATTHS WERK TOEGTHER/TwinStickPossession-20191202T123503Z-001/TwinStickPossession/Content/ThirdPersonBP/AI/BasicDrone/EQS_Circle.uasset.
+[2019.12.04-15.15.26:145][490]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-15.15.26:149][490]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.12.04-15.15.26:173][490]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.26:174][490]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.12.04-15.15.26:174][490]MapCheck: New page: Map Check
+[2019.12.04-15.15.26:174][490]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.26:201][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-15.15.26:246][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-15.15.26:246][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2019.12.04-15.15.26:246][490]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.074
+[2019.12.04-15.15.30:870][752]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-15.15.30:878][752]LogAssetEditorManager: Opening Asset editor for World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2019.12.04-15.15.30:903][752]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.30:903][752]LoadErrors: New page: Loading map: TwinStickExampleMap.umap
+[2019.12.04-15.15.30:904][752]MapCheck: New page: Map Check
+[2019.12.04-15.15.30:904][752]LightingResults: New page: Lighting Build
+[2019.12.04-15.15.30:935][752]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-15.15.30:978][752]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-15.15.30:978][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.12.04-15.15.30:978][752]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.076
+[2019.12.04-15.15.34:314][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.15.34:698][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.15.34:710][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.34:710][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.15.34:710][971]PIE: New page: PIE session: TwinStickExampleMap (4 Dec 2019 15:15:34)
+[2019.12.04-15.15.34:710][971]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2019.12.04-15.15.34:715][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005330s)
+[2019.12.04-15.15.34:716][971]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-15.15.34:716][971]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.12.04-15.15.34:716][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006083s)
+[2019.12.04-15.15.34:753][971]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-15.15.34:763][971]LogInit: FAudioDevice initialized.
+[2019.12.04-15.15.34:795][971]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.12.04-15.15.34:797][971]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.12.04-15.15.34
+[2019.12.04-15.15.34:797][971]LogWorld: Bringing up level for play took: 0.001263
+[2019.12.04-15.15.34:813][971]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.509
+[2019.12.04-15.15.34:813][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.36:254][ 56]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 60.0
+[2019.12.04-15.15.37:204][113]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 20.0
+[2019.12.04-15.15.37:690][142]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 60.0
+[2019.12.04-15.15.38:105][167]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 60.0
+[2019.12.04-15.15.38:355][182]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] 20.0
+[2019.12.04-15.15.38:604][197]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] 20.0
+[2019.12.04-15.15.38:855][212]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_3] -20.0
+[2019.12.04-15.15.38:870][213]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_0] -20.0
+[2019.12.04-15.15.38:972][219]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 60.0
+[2019.12.04-15.15.39:005][221]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_4] 20.0
+[2019.12.04-15.15.39:171][231]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] -20.0
+[2019.12.04-15.15.41:689][382]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] 60.0
+[2019.12.04-15.15.45:198][592]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] 20.0
+[2019.12.04-15.15.51:032][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.51:032][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.15.51:065][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.15.51:065][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.51:090][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.15.51:143][944]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.04-15.15.52:558][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.15.52:692][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.15.52:704][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.52:704][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.15.52:704][ 36]PIE: New page: PIE session: TwinStickExampleMap (4 Dec 2019 15:15:52)
+[2019.12.04-15.15.52:704][ 36]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2019.12.04-15.15.52:710][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005159s)
+[2019.12.04-15.15.52:710][ 36]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.12.04-15.15.52:710][ 36]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2019.12.04-15.15.52:710][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005778s)
+[2019.12.04-15.15.52:742][ 36]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.04-15.15.52:751][ 36]LogInit: FAudioDevice initialized.
+[2019.12.04-15.15.52:786][ 36]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.12.04-15.15.52:788][ 36]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.12.04-15.15.52
+[2019.12.04-15.15.52:788][ 36]LogWorld: Bringing up level for play took: 0.001197
+[2019.12.04-15.15.52:804][ 36]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.5
+[2019.12.04-15.15.52:805][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.15.57:228][300]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_1] 60.0
+[2019.12.04-15.15.57:697][328]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_2] 60.0
+[2019.12.04-15.16.00:261][482]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	BP_PlayerCharacterExperimental_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.BP_PlayerCharacterExperimental_2
+	Function /Game/TwinStickBP/Player/BP_PlayerCharacterExperimental.BP_PlayerCharacterExperimental_C:ExecuteUbergraph_BP_PlayerCharacterExperimental:112E
+[2019.12.04-15.16.00:261][482]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  BP_PlayerCharacterExperimental Function:  Execute Ubergraph BP Player Character Experimental Graph:  EventGraph Node:  DestroyComponent
+[2019.12.04-15.16.00:645][505]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	BP_PlayerCharacterExperimental_C /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.BP_PlayerCharacterExperimental_2
+	Function /Game/TwinStickBP/Player/BP_PlayerCharacterExperimental.BP_PlayerCharacterExperimental_C:ExecuteUbergraph_BP_PlayerCharacterExperimental:112E
+[2019.12.04-15.16.00:646][505]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  BP_PlayerCharacterExperimental Function:  Execute Ubergraph BP Player Character Experimental Graph:  EventGraph Node:  DestroyComponent
+[2019.12.04-15.16.00:929][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.16.02:447][613]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_5] 60.0
+[2019.12.04-15.16.02:545][619]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_5] 20.0
+[2019.12.04-15.16.02:695][628]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_5] -20.0
+[2019.12.04-15.16.02:729][630]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_6] 60.0
+[2019.12.04-15.16.03:645][685]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_9] 60.0
+[2019.12.04-15.16.03:795][694]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_9] 20.0
+[2019.12.04-15.16.03:978][705]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_9] -20.0
+[2019.12.04-15.16.04:713][749]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_7] 60.0
+[2019.12.04-15.16.04:962][764]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_7] 20.0
+[2019.12.04-15.16.05:413][791]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_7] -20.0
+[2019.12.04-15.16.08:229][960]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_8] 60.0
+[2019.12.04-15.16.08:428][972]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_8] 20.0
+[2019.12.04-15.16.08:628][984]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_8] -20.0
+[2019.12.04-15.16.09:529][ 38]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_6] 20.0
+[2019.12.04-15.16.09:695][ 48]LogBlueprintUserMessages: [BP_BasicEnemyEX_C_6] -20.0
+[2019.12.04-15.16.10:312][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.16.10:313][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.16.10:347][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.16.10:348][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2019.12.04-15.16.10:372][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.16.10:384][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-15.16.10:441][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.04-15.16.29:177][208]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-15.16.29:186][208]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-15.16.31:344][331]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap
+[2019.12.04-15.16.31:787][331]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.12.04-15.16.32:422][331]LogSlate: Took 0.001858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.04-15.16.35:576][518]LogSlate: Window 'TwinStickExampleMap - Level Blueprint Editor' being destroyed
+[2019.12.04-15.16.35:583][518]LogSlate: Window 'TwinStickExampleMap - Level Blueprint Editor' being destroyed
+[2019.12.04-15.16.38:489][686]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TwinStickBP/Death_Text.Death_Text
+[2019.12.04-15.16.44:432][ 19]LogSlate: Window 'Death_Text' being destroyed
+[2019.12.04-15.16.44:440][ 19]LogSlate: Window 'Death_Text' being destroyed
+[2019.12.04-15.16.54:657][621]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TwinStickBP/Player/BP_HUD.BP_HUD
+[2019.12.04-15.17.37:502][125]LogSlate: Window 'BP_HUD' being destroyed
+[2019.12.04-15.17.55:112][981]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.18.03:902][144]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.18.10:655][443]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.18.11:129][443]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.04-15.18.11:592][443]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.462 s
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: 
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: Cannot remove redirection from /Game/TeamART/ALAN/Blueprints/TwinStickGameMode.TwinStickGameMode, it was not registered
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: Stack: 
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0b3fab12 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: [Callstack] 0x00007ffa4b7b2e08 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.12.04-15.18.11:592][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa8406a4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa84bf16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9f9f4f578 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa218a90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa212e9f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa022cc7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa020b8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa02152678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0213857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0212b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567dde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567d0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567e01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567cca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8ce063ed USER32.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8ce05de2 USER32.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567e16a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0215f842 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa020e738c UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa2b9816 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9fa83f798 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9be21dd2f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9be2284e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9be22375a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9be282123 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff9be22477f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa022cc7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa020b8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa02152678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0213857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa0212b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567dde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567d0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567e01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567cca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8ce063ed USER32.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8ce05de2 USER32.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa567e1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff696d65546 UE4Editor.exe!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff696d7596c UE4Editor.exe!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff696d759ea UE4Editor.exe!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff696d848da UE4Editor.exe!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ff696d8659a UE4Editor.exe!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8daf7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: [Callstack] 0x00007ffa8dc4ced1 ntdll.dll!UnknownFunction []
+[2019.12.04-15.18.11:593][443]LogOutputDevice: Error: 
+[2019.12.04-15.18.11:595][443]LogStats:                SubmitErrorReport -  0.000 s
